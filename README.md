@@ -4,16 +4,16 @@
 <br>
 <div>
   
-    <h4>Features</h4>
-    <ul>Navbar with search and cart icons</ul>
-    <ul>Product grid layout with product images and descriptions</ul>
-    <ul>Footer section with links to various pages</ul>
-  
-
-
-    <h4>Tech Stack</h4>
-        <ul>HTML5</ul>
-        <ul>CSS3</ul>
+  <h4>Features</h4>
+  <ul>Navbar with search and cart icons</ul>
+  <ul>Product grid layout with product images and descriptions</ul>
+  <ul>Footer section with links to various pages</ul>
+                
+              
+              
+  <h4>Tech Stack</h4>
+  <ul>HTML5</ul>
+  <ul>CSS3</ul>
 
 </div>
 
