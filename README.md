@@ -3,17 +3,17 @@
 <hr>
 <br>
 <div>
-  <ol>
-    <b>Features</b>
+  
+    <h4>Features</h4>
     <ul>Navbar with search and cart icons</ul>
     <ul>Product grid layout with product images and descriptions</ul>
     <ul>Footer section with links to various pages</ul>
-  </ol>
+  
 
-  <ol>
-    <b>Tech Stack</b>
+
+    <h4>Tech Stack</h4>
         <ul>HTML5</ul>
         <ul>CSS3</ul>
-  </ol>
+
 </div>
 
